@@ -1,0 +1,48 @@
+@charset "utf-08";
+
+
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+main h1{
+    text-align: center;
+}
+.card{
+    
+    background-color: #f8fad3;
+    font-size: 1em;
+    
+}
+.receita h1{
+    padding-top: 15px;
+}
+
+.receita div{
+    margin: auto;
+    background-size: cover;
+    width: 95%;
+    height: 180px;
+    background-position: center;
+    padding-bottom: 10px;
+}
+.receita li{
+    width: 300px;
+    margin: auto;  
+}
+.receita p{
+    margin: 0;
+    padding: 10px;
+}
+#arroz{
+    background-image: url("../img/Arroz.jpg")
+}
+#bolo{
+    background-image: url("../img/bolo.jpg");
+}
+#coxinha{
+    background-image: url("../img/Coxinha.jpg");
+}

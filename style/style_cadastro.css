@@ -1,0 +1,21 @@
+@charset "utf-08";
+
+
+
+
+main{
+    
+    font-weight: bolder;
+}
+main h1{
+    font-weight: 900;
+}
+.display-3 {  
+    font-weight: 500;   
+}
+
+.botao{
+    text-align: center;
+    margin: auto;
+}
+
