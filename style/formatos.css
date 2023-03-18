@@ -9,16 +9,17 @@ body{
     margin: 0;
 }
 header{
-    size: 60px;
+    height:  60px;
 }
 main{
-    size: calc(100vh-100px);
-    overflow: auto;
+    
+    height: calc(100vh-100px);
+    overflow-y: auto;
     margin: 80px 0px;
 }
 
 footer{
-    size: 25px;
+    height:  25px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -28,6 +29,7 @@ footer{
 }
 footer h1{
     
+    font-size: large;
     margin: 0;
     text-align: center;
 }
