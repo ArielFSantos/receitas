@@ -1,12 +1,11 @@
 @charset "utf-08";
 
 
-
 main{
+
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly
-    
+    justify-content: space-evenly   
 }
 main h1{
     text-align: center;
@@ -14,10 +13,14 @@ main h1{
 .card{
     
     background-color: #f8fad3;
-    font-size: 1em;
+  
     
 }
+.card h1{
+    font-size: 2rem;
+}
 .receita h1{
+    
     padding-top: 15px;
 }
 

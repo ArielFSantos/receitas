@@ -4,10 +4,13 @@
 
 .logo{
 
-    width: 50px;
-    height: 50px; 
+    width: 200px;
+    height: 200px; 
 }
 
+main{
+    font-size: 2em;
+}
 section{
     font-size: 2em;
     padding: 40px;
